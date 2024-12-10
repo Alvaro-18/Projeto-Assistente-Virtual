@@ -1,0 +1,28 @@
+{
+  "acoes": [
+    {
+      "nome": "criar",
+      "objetos": [
+        "atividade"
+      ]
+    },
+    {
+      "nome": "deletar",
+      "objetos": [
+        "atividade"
+      ]
+    },
+    {
+      "nome": "concluir",
+      "objetos": [
+        "atividade"
+      ]
+    },
+    {
+      "nome": "atualizar",
+      "objetos": [
+        "atividade"
+      ]
+    }
+  ]
+}
